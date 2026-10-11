@@ -2,14 +2,16 @@
 
 🎓 B.Sc. Computer Science Graduate
 
-🔐 Incoming M.Sc. Cybersecurity Student
+🔐  M.Sc. Cybersecurity Student
 
 💻 Interests:
 - Cybersecurity
 - Ethical Hacking
+- offensive security VAPT/web
 - Network Security
 - Linux
 - Python
+  
 
 🚀 Currently Learning:
 - SOC Operations
